@@ -1,0 +1,19 @@
+/**
+ * CSS files with the .module.css extension are treated as CSS modules.
+ * The actual class names will be scoped to the component.
+ *
+ * See: https://docusaurus.io/docs/styling/css-modules
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
