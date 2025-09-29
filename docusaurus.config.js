@@ -25,6 +25,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: true,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -83,6 +84,12 @@ const config = {
             position: 'left',
             label: 'Python',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'datastructuresSideBar',
+            position: 'left',
+            label: 'Datastructures and Algorithms',
+            },
           {
             type: 'docSidebar',
             sidebarId: 'dockerSidebar',
