@@ -63,7 +63,7 @@ const config = {
         title: 'My Learning Docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: '/img/logo.svg',
         },
         items: [
           {
