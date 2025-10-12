@@ -1,0 +1,5 @@
+label: 'ASX Stocks'
+position: 5
+link:
+  type: generated-index
+  description: Notes on ASX, STOCKS.

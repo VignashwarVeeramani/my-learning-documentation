@@ -97,6 +97,12 @@ const config = {
             label: 'Docker',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'asxSidebar',
+            position: 'left',
+            label: 'ASX Stocks',
+          },
+          {
             href: 'https://github.com/VignashwarVeeramani/my-learning-documentation',
             label: 'GitHub',
             position: 'right',

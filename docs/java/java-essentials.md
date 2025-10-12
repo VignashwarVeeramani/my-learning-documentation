@@ -1,6 +1,7 @@
 ---
 id: java-essentials
 title: Java Essentials
+sidebar_position: 1
 ---
 
 # Java Essentials
