@@ -74,6 +74,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'javaInterviewPrepSidebar',
+            position: 'left',
+            label: 'Java Interview Prep',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'springbootSidebar',
             position: 'left',
             label: 'Spring Boot',
