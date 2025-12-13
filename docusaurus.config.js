@@ -80,6 +80,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'javaMicroservicesSidebar',
+            position: 'left',
+            label: 'Java Microservices',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'springbootSidebar',
             position: 'left',
             label: 'Spring Boot',
